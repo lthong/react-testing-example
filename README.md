@@ -1,3 +1,3 @@
 ## React Testing Example
 
-React testing project using Redux, Jest and Enzyme.
+This project is a simple message board using Redux, Jest and Enzyme.
